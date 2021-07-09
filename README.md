@@ -1,1 +1,1 @@
-"MedicalRecordTool"technical support:This APP can help you record the process from illness to cure to prevent you from forgetting your condition at an important moment and causing unnecessary trouble. For any comments and suggestions, please contact us:18258480517,"MedicalRecordTool" official email:18258480517@163.com
+# MedicalRecordTool
